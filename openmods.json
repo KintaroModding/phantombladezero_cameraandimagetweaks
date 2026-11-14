@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Camera and Image Tweaks",
+  "summary": "Field of view, camera distance, ultrawide fixes, and switches for vignette, bloom, depth of field and more. Set them in game in a panel (F9) or in config.lua.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["camera", "effects", "ui", "quality-of-life"],
+  "requires": ["UE4SS (tested with v4.0.0)"],
+  "gameVersions": ["Steam build 26367565"],
+  "cover": "docs/cover.png"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Camera and Image Tweaks",
+  "folder": "phantombladezero_cameraandimagetweaks",
+  "author": "Kintaro",
+  "version": "1.1",
+  "description": "Field of view, camera distance, lock-on height, an ultrawide cutscene fix, ultrawide HUD placement, and switches for chromatic aberration, vignette, depth of field, lens flares and bloom. Every tweak is a setting in config.lua, live in game.",
+  "kind": "ue4ss",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "win64Path": "platform\\steam",
+  "gameVersion": "CL-302256_JKS-17280",
+  "engine": "UE5_7",
+  "ue4ss": "v4.0.0"
+}
