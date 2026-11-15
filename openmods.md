@@ -40,7 +40,7 @@ file and writes nothing into your save; without the mod, the next game start is 
 
 ## Screenshots
 
-![Camera and Image Tweaks](docs/cover.png)
+![Camera and Image Tweaks](docs/cover.webp)
 
 ## How to install
 
